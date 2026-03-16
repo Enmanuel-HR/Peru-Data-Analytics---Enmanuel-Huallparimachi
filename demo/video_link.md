@@ -1,3 +1,3 @@
 # Demo Video Link
 
-[Link to project demo video](https://example.com/demo-video)
+[Link to project demo video](https://youtu.be/sy-qt6FEFzQ)
