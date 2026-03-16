@@ -1,0 +1,18 @@
+# Credentials & Config
+.env
+API_GITHUB_CLASSIC.txt
+
+# Environments & Systems
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+.DS_Store
+
+# Large or Local data
+*.db
+peru_analytics.db
+data/raw/
+logs/
